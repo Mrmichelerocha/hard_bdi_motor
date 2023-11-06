@@ -21,7 +21,7 @@ Instruções detalhadas sobre como compilar e executar os exemplos podem ser enc
 ```bash
 $ git clone https://github.com/esseprojetoaqui
 $ cd seu-repositorio
-
+```
 
 ## 👨‍💻 Tecnologias Utilizadas
 
