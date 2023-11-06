@@ -2,6 +2,11 @@
 
 Este repositório contém o código-fonte e a documentação relacionados ao meu Trabalho de Conclusão de Curso (TCC), que explora a aplicação de uma arquitetura SimpleBDI para o desenvolvimento de agentes inteligentes, implementado em C++ e utilizando JSON para estruturação.
 
+  
+<a href="https://youtu.be/KkcuBS6xCZU" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
 ![diagrama](https://github.com/Mrmichelerocha/hard_bdi_motor/assets/93664169/dadd5ab9-0ce5-419f-8f05-a95a9e95040e)
 
 ## Introdução
@@ -13,6 +18,7 @@ O projeto propõe uma abordagem inovadora para a construção de agentes intelig
 - `hard_bdi_motor.cpp`: Contém os códigos fonte da implementação em C++, com a estrutura da SimpleBDI.
 - `agent.h`: Diretório para arquivos de cabeçalho (.h) necessários para a compilação do projeto.
 - `action.cpp`: Exemplos de como a arquitetura pode ser aplicada em diferentes cenários no nosso contexto em um carrinho embarcado com 2 motores.
+
 
 ## Como Usar
 
